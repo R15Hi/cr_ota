@@ -4,12 +4,12 @@
 			"maintainer": "Rishi",
 			"oem": "Realme",
 			"device": "Realme 3 Pro",
-			"filename": "crDroidAndroid-11.0-20231024-RMX1851-v7.35-GAPPS.zip",
-			"download": "https://github.com/R15Hi/cr_ota/releases/download/crDroidAndroid-11.0-20231024-RMX1851-v7.35-GAPPS/crDroidAndroid-11.0-20231024-RMX1851-v7.35-GAPPS.zip",
-			"timestamp": 1698132472,
-			"md5": "a18a32c7bd9a44ef5499f5f266e233c7",
-			"size": 1321624922,
-			"version": "7.35",
+			"filename": "crDroidAndroid-11.0-20231025-RMX1851-v7.35v1-GAPPS.zip",
+			"download": "https://github.com/R15Hi/cr_ota/releases/download/crDroidAndroid-11.0-20231025-RMX1851-v7.35v1-GAPPS/crDroidAndroid-11.0-20231025-RMX1851-v7.35v1-GAPPS.zip",
+			"timestamp": 1698207188,
+			"md5": "41424e8d0989a6cc0bc23d32ed4875db",
+			"size": 1321638772,
+			"version": "7.35v1",
 			"buildtype": "Monthly",
 			"telegram": "https://t.me/Roubuilds"
 		}
