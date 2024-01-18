@@ -2,10 +2,10 @@
 	"response": [
 		{
 			"maintainer": "Rishi",
-			"oem": "realme",
+			"oem": "Realme",
 			"device": "Realme 3 Pro",
-			"filename": "crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
-			"download="https://github.com/R15Hi/cr_ota/releases/download/crDroidAndroid-14.0-20240118-RMX1851-v10.1/crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
+			"filename": "crDroidAndroid-14.0-20240117-RMX1851-v10.1.zip",
+			"download="https://sourceforge.net/projects/roy-roms/files/Crdroid/crDroidAndroid-14.0-20240117-RMX1851-v10.1.zip/download",
 			"timestamp": 1705547615,
 			"md5": "cdab0ec0f3dd9ec0017715d02373f92d",
 			"sha256": "5ab02877003bec7cba91a4b3ca17c338d226eb4c84892d22e382366428f84841",
