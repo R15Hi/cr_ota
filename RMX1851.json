@@ -3,16 +3,26 @@
 		{
 			"maintainer": "Rishi",
 			"oem": "Realme",
-			"device": "Realme 3 Pro",
-			"filename": "crDroidAndroid-14.0-20240117-RMX1851-v10.1.zip",
-			"download="https://sourceforge.net/projects/roy-roms/files/Crdroid/crDroidAndroid-14.0-20240117-RMX1851-v10.1.zip/download",
+			"device": "Realme 3 pro",
+			"filename": "crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
+			"download": "https://github.com/R15Hi/cr_ota/releases/download/crDroidAndroid-14.0-20240118-RMX1851-v10.1/crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
 			"timestamp": 1705547615,
-			"md5": "cdab0ec0f3dd9ec0017715d02373f92d",
-			"sha256": "5ab02877003bec7cba91a4b3ca17c338d226eb4c84892d22e382366428f84841",
-			"size": 1637124324,
+			"md5": "d2a5dfb77e1a9f1e3ccc348a554adb28",
+			"sha256": "19e3c9ca6f40c71200264372dd283c2ba4535d6c5af745fcf6f079d7351ae7f7",
+			"size": 1637118172,
 			"version": "10.1",
-			"buildtype": "Weekly",
-			"telegram": "https://t.me/R15H1"
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/R15H1",
+			"dt": "https://github.com/Cykeek-Labs/device_realme_RMX1851",
+			"common-dt": "",
+			"kernel": "https://github.com/Cykeek-Labs/kernel_realme_sdm710-RUI2"
 		}
 	]
 }
