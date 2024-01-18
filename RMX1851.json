@@ -1,28 +1,18 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
-			"filename": "crDroidAndroid-14.0-20231219-RMX1851-v10.0-BETA.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/RMX1851/10.x/crDroidAndroid-14.0-20231219-RMX1851-v10.0-BETA.zip/download",
-			"timestamp": 1702933149,
-			"md5": "f8aa6e4f4cd80732e7d5f89b8f036cb4",
-			"sha256": "af133985ec741bf88714fd18e6cc9e8d66b1a730f5aa856a269eaf7bc305caf9",
-			"size": 1948372606,
-			"version": "10.0",
-			"buildtype": "",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"maintainer": "Rishi",
+			"oem": "Realme",
+			"device": "Realme 3 Pro",
+			"filename": "crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
+			"download="https://github.com/R15Hi/cr_ota/releases/download/crDroidAndroid-14.0-20240118-RMX1851-v10.1/crDroidAndroid-14.0-20240118-RMX1851-v10.1.zip",
+			"timestamp": 1705547615,
+			"md5": "cdab0ec0f3dd9ec0017715d02373f92d",
+			"sha256": "5ab02877003bec7cba91a4b3ca17c338d226eb4c84892d22e382366428f84841",
+			"size": 1637124324,
+			"version": "10.1",
+			"buildtype": "Weekly",
+			"telegram": "https://t.me/R15H1"
 		}
 	]
 }
