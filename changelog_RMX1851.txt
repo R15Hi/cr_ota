@@ -2,6 +2,18 @@
      01-18-2024
 ====================
 
+   * frameworks/base
+6a352e78 PixelPropsUtils: Update spoof fingerprint (#1062)
+
+   * packages/apps/Aperture
+4fa3048 Aperture: Update AGP to 8.2.1
+
+   * packages/apps/TvSettings
+7f7b512 Add Lineage advanced restart options
+
+   * packages/apps/Updater
+6944773 Updater: Track our ota url
+
 ====================
      01-17-2024
 ====================
@@ -18,9 +30,6 @@
 
    * device/qcom/sepolicy_vndr/sm8450
 b6998a9 sepolicy_vndr: Remove vendor_service.
-
-   * frameworks/base
-e8e27410 Make the icon of SplashScreenView non-focusable
 
    * hardware/qcom-caf/common
 86535b8 qcom: Add qcom-caf wlan to soong namespaces
