@@ -1,151 +1,121 @@
 ====================
-     01-18-2024
+     02-09-2024
 ====================
 
    * frameworks/base
-6a352e78 PixelPropsUtils: Update spoof fingerprint (#1062)
-
-   * packages/apps/Aperture
-4fa3048 Aperture: Update AGP to 8.2.1
-
-   * packages/apps/TvSettings
-7f7b512 Add Lineage advanced restart options
-
-   * packages/apps/Updater
-6944773 Updater: Track our ota url
-
-====================
-     01-17-2024
-====================
-
-   * art
-030cb78 Make classes visibly initialized with `membarrier`.
-
-   * device/lineage/atv
-6a2dc82 atv: rro: Allow devices to disable the remote pairing animation
-
-====================
-     01-16-2024
-====================
-
-   * device/qcom/sepolicy_vndr/sm8450
-b6998a9 sepolicy_vndr: Remove vendor_service.
+9a199469 SystemUI: Enable pulsing animation for faceunlock
 
    * hardware/qcom-caf/common
-86535b8 qcom: Add qcom-caf wlan to soong namespaces
-
-   * hardware/qcom-caf/wlan
-21c176b cld80211: Convert makefile to blueprint
-
-   * tools/extract-utils
-3b7da6c extract-utils: Disable elf checks by default
-
-   * vendor/addons
-becc118 addons: Increase QS & QQS header Space for A11 QS style [2/2]
+d0d2fa3 Update common compatibility matrix with qccsyshal V1.2
 
 ====================
-     01-15-2024
+     02-08-2024
 ====================
 
    * android
-a62841b manifest: Track ThemePicker
+27b0c73 manifest: Untract ExactCalculator
+
+   * bootable/recovery
+8547b73 Merge 'lineage-21.0' into 14.0
+
+   * build/make
+223b49c Merge 'lineage-21.0' into 14.0
+
+   * build/soong
+06a4a3d Merge 'lineage-21.0' into 14.0
+
+   * device/lineage/sepolicy
+40dda84 Merge 'lineage-21.0' into 14.0
 
    * frameworks/av
-55c4a30 SurfaceUtils: ensure lock() grants a valid pointer
+5ba23cb Change to output ArrayMode if using SkipCutBuffer
 
-   * packages/apps/Settings
-55a4c84 Settings: Don't make app lock settings searchable
+   * frameworks/native
+f7302d3 Display: the resolution scale factor changed during booting
 
-   * packages/apps/ThemePicker
-adc07cb ThemePicker: Fix up overlay color source
+   * packages/apps/Aperture
+da168d2 Aperture: Log Coil exception messages
+
+   * packages/apps/Backgrounds
+bcd2356 Merge 'lineage-21.0' into 14.0
+
+   * packages/modules/Bluetooth
+d8ad3c6 Merge 'lineage-21.0' into 14.0
+
+   * packages/modules/Permission
+0a6e132 Merge 'lineage-21.0' into 14.0
+
+   * system/core
+89c0723 init.rc: Disable native stats collection service
+
+   * system/sepolicy
+6eee1ab Merge 'lineage-21.0' into 14.0
+
+   * vendor/lineage
+3707163 crdroid: Bump to version 10.2
+
+====================
+     02-07-2024
+====================
+
+   * packages/apps/Dialer
+feefcca Dialer: Increase icon size for the end call button
+
+   * packages/providers/DownloadProvider
+8a71932 Merge tag 'android-14.0.0_r25' into staging/lineage-21.0_merge-android-14.0.0_r25
+
+====================
+     02-06-2024
+====================
 
    * packages/apps/crDroidSettings
-a143fb8 crdroid: Add native monet settings to change theme style
+690f741 New Crowdin updates (#1121)
 
 ====================
-     01-14-2024
-====================
-
-====================
-     01-13-2024
+     02-05-2024
 ====================
 
 ====================
-     01-12-2024
+     02-04-2024
 ====================
 
+   * art
+07a2aa9 Optimizing: Avoid `HashMap` to speed up LSE.
+
+   * vendor/addons
+a015e84 addons: UdfpsAnimations: Add 'none' to the styles
+
 ====================
-     01-11-2024
+     02-03-2024
 ====================
 
    * device/qcom/sepolicy_vndr/legacy-um
-fdf18a4 holi: Label discard_max_bytes sysfs
-
-   * external/boringssl
-ec8367a Enable AutoFDO for libcrypto
-
-   * toolchain/pgo-profiles
-0d33bfd Make libcrypto AFDO profile ARM64 specific
+a54e399 legacy: Commonize discard_max_bytes
 
 ====================
-     01-10-2024
+     02-02-2024
 ====================
 
-   * bionic
-98f0cab Merge 'lineage-21.0' into 14.0
+   * packages/apps/Jelly
+2974191 Automatic translation import
 
-   * bootable/recovery
-41b8c7b Merge 'lineage-21.0' into 14.0
+====================
+     02-01-2024
+====================
 
-   * build/make
-0ec9eca Merge 'lineage-21.0' into 14.0
-
-   * build/soong
-f1967b8 Merge 'lineage-21.0' into 14.0
-
-   * device/lineage/sepolicy
-ddabd17 sepolicy: Label Dolby Sepolicy labels
-
-   * device/qcom/sepolicy-legacy-um
-18b608b Merge tag 'LA.UM.12.2.1.r1-02500-sdm660.0' of https://git.codelinaro.org/clo/la/device/qcom/sepolicy into lineage-21.0-legacy-um
-
-   * frameworks/native
-f10df36 Merge 'lineage-21.0' into 14.0
-
-   * hardware/qcom-caf/sdm660/media
-eeed3ac Merge tag 'LA.UM.12.2.1.r1-02500-sdm660.0' of https://git.codelinaro.org/clo/la/platform/hardware/qcom/media into lineage-21.0-caf-sdm660
-
-   * packages/apps/Dialer
-04abd95 Merge 'lineage-21.0' into 14.0
-
-   * packages/apps/Launcher3
-d94efb6 Merge tag 'android-14.0.0_r20' into 14.0
-
-   * packages/apps/Nfc
-eef6068 Merge 'lineage-21.0' into 14.0
-
-   * packages/apps/WallpaperPicker2
-6ec628b Merge 'lineage-21.0' into 14.0
+   * packages/apps/Eleven
+0c74853 Eleven: Avoid posting notification when service start id is invalid
 
    * packages/inputmethods/LatinIME
-c3a3f94 Merge 'lineage-21.0' into 14.0
+2e5d4a0 Merge 'lineage-21.0' into 14.0
 
-   * system/core
-a4c4b0d Revert "snapuserd: opt out of Global ThinLTO to workaround segfault"
+   * packages/modules/StatsD
+5b03711 statsd: Disable native stats collection service
 
-   * system/sepolicy
-669eda5 Merge 'lineage-21.0' into 14.0
-
-   * system/update_engine
-04651d6 Merge 'lineage-21.0' into 14.0
-
-   * vendor/lineage
-70ae17a crdroid: Bump to version 10.1
+   * toolchain/pgo-profiles
+eda5d10 Merge pull request #1 from SOVIET-ANDROID/14.0
 
 ====================
-     01-09-2024
+     01-31-2024
 ====================
-
-   * vendor/codeaurora/telephony
-aca2cbe fixup! IMS: Add Motorola specific API for VT
 
